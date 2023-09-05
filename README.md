@@ -31,7 +31,7 @@ Explore the Posts Application, a social platform that connects users through pos
 
 * / --> home page
 * /posts --> shows all posts of all users and a form to add a post
-* /user/:username/posts --> shows all posts and likes received by a usera
+* /user/:username/posts --> shows all posts and likes received by a user
 * posts/:id --> shows single post
 
 ## Features
